@@ -238,10 +238,7 @@ C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administraci
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReportePlanillaArbitro.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Reportes.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReporteEstadisticasEquipo.resources
-<<<<<<< HEAD
-=======
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.Reporte_Arbitrosss.resources
->>>>>>> Rma_curtidor
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReservaArbitro.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ReservaCanchas.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.tablapos.resources
@@ -252,10 +249,7 @@ C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administraci
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewControlAmonestacion.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEntrenador.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewEquipo.resources
-<<<<<<< HEAD
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewListEquipos.resources
-=======
->>>>>>> Rma_curtidor
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPagoAmonestacion.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.ViewPosicionJugador.resources
 C:\Users\louma\OneDrive\Documentos\Administracion_Torneos\obj\Debug\Administracion_Torneos.Vista.VistaArbitro.resources
