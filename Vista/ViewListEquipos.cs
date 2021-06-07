@@ -50,6 +50,9 @@ namespace Administracion_Torneos.Vista
             }
         }
 
+        private void ViewListEquipos_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }

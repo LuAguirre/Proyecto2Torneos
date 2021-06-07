@@ -38,31 +38,35 @@ namespace Administracion_Torneos.Vista
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(239, 37);
+            this.label1.Location = new System.Drawing.Point(319, 46);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(307, 39);
+            this.label1.Size = new System.Drawing.Size(374, 48);
             this.label1.TabIndex = 22;
             this.label1.Text = "Listado de Equipos\r\n";
             // 
             // listEquipos
             // 
             this.listEquipos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.listEquipos.Location = new System.Drawing.Point(178, 102);
+            this.listEquipos.Location = new System.Drawing.Point(237, 126);
+            this.listEquipos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listEquipos.Name = "listEquipos";
             this.listEquipos.RowHeadersWidth = 51;
-            this.listEquipos.Size = new System.Drawing.Size(444, 311);
+            this.listEquipos.Size = new System.Drawing.Size(592, 383);
             this.listEquipos.TabIndex = 21;
             // 
             // ViewListEquipos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listEquipos);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ViewListEquipos";
             this.Text = "ViewListEquipos";
+            this.Load += new System.EventHandler(this.ViewListEquipos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.listEquipos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

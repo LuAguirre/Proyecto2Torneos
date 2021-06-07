@@ -161,5 +161,11 @@ namespace Administracion_Torneos.Vista
             hm.hora = TimeSpan.Parse(hora);
             historial.addHistorial(hm);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ViewListEquipos l = new ViewListEquipos();
+            l.Show();
+        }
     }
 }
