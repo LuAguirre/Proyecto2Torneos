@@ -166,8 +166,12 @@ namespace Administracion_Torneos.Vista
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(740, 405);
             this.Controls.Add(this.button2);
+=======
+            this.ClientSize = new System.Drawing.Size(761, 405);
+>>>>>>> Rma_curtidor
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnOcho);
             this.Controls.Add(this.btnSiete);

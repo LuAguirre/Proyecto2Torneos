@@ -228,6 +228,12 @@
     <Compile Include="Vista\ReporteEstadisticasEquipo.Designer.cs">
       <DependentUpon>ReporteEstadisticasEquipo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\Reporte_Arbitrosss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Reporte_Arbitrosss.Designer.cs">
+      <DependentUpon>Reporte_Arbitrosss.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\ReservaArbitro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -396,6 +402,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ReporteEstadisticasEquipo.resx">
       <DependentUpon>ReporteEstadisticasEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Reporte_Arbitrosss.resx">
+      <DependentUpon>Reporte_Arbitrosss.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ReservaArbitro.resx">
       <DependentUpon>ReservaArbitro.cs</DependentUpon>

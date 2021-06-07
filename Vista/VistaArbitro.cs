@@ -193,5 +193,10 @@ namespace Administracion_Torneos.Vista
         {
            
         }
+
+        private void listArbitros_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
