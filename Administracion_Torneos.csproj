@@ -288,6 +288,12 @@
     <Compile Include="Vista\ViewEquipo.Designer.cs">
       <DependentUpon>ViewEquipo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\ViewListEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\ViewListEquipos.Designer.cs">
+      <DependentUpon>ViewListEquipos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\ViewPagoAmonestacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -420,6 +426,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ViewEquipo.resx">
       <DependentUpon>ViewEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\ViewListEquipos.resx">
+      <DependentUpon>ViewListEquipos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ViewPagoAmonestacion.resx">
       <DependentUpon>ViewPagoAmonestacion.cs</DependentUpon>
