@@ -17,7 +17,7 @@ namespace Administracion_Torneos.Vista
         public ReporteJugadores()
         {
             InitializeComponent();
-            j.Getjugadores();
+            dataGridView1.DataSource = j.Getjugadores();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
