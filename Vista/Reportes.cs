@@ -173,5 +173,11 @@ namespace Administracion_Torneos.Vista
             Reporte_Arbitrosss a = new Reporte_Arbitrosss();
             a.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ReporteJugadores r = new ReporteJugadores();
+            r.Show();
+        }
     }
 }
