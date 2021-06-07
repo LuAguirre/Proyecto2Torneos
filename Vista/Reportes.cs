@@ -167,5 +167,11 @@ namespace Administracion_Torneos.Vista
             ViewListEquipos l = new ViewListEquipos();
             l.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Reporte_Arbitrosss a = new Reporte_Arbitrosss();
+            a.Show();
+        }
     }
 }
